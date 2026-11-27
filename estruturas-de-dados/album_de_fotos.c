@@ -90,7 +90,7 @@ void imprimir(LISTA *l){
 int main() {
     LISTA album;
     REGISTRO novaFoto;
-    inicializarLista(&album);
+    inicializar(&album);
 
     int opcao;
     do {

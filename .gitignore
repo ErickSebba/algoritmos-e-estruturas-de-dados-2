@@ -1,0 +1,11 @@
+# Binários e dados gerados
+*.exe
+*.o
+*.out
+*.dat
+
+# Editor e ferramentas de IA (ficam só no disco)
+.vscode/
+.claude/
+CLAUDE.md
+dados.bin
